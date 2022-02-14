@@ -24,13 +24,16 @@ drop-down-menu {
   width: 350px !important;
 }
 .Select-control {
+  overflow-y: scroll !important;
+  min-height: 50px !important;
+  height: auto !important;
+  max-height: 200px !important;
   width: 350px !important;
-  height: 50px !important;
-  overflow: visible;
 }
 .Select-menu-outer {
   width: 367px
 }
+
 .Select.has-value.is-clearable.is-searchable.Select--multi {
   background: yellow !important; 
   height: 50px !important;
