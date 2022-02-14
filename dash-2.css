@@ -1,5 +1,5 @@
 button-1 {
-  color : green !important;
+  color : red !important;
 }
 /*drop-down-menu {
   width: 350px;
@@ -9,6 +9,7 @@ button-1 {
 
 .dash-dropdown {
   width: 350px !important;
+  min-height: 50px !important;
   height: auto !important;
   max-height: 300px !important;
 }
@@ -22,13 +23,16 @@ button-1 {
 }*/
 .Select-multi-value-wrapper {
   overflow-y: scroll !important;
-  height: 50px !important;
+  min-height: 50px !important;
+  height: auto !important;
   max-height: 200px !important;
   width: 350px !important;
 }
 .Select-control {
-  height: 50px !important;
-  max-height: 150px !important;
+  min-height: 50px !important;
+  height: auto !important;
+  max-height: 200px !important;
+  overflow: visible;
 }
 */
 /*
