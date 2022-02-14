@@ -27,9 +27,8 @@ drop-down-menu {
   width: 350px !important;
 }
 .Select-control {
-  min-height: 50px !important;
-  height: auto !important;
-  max-height: 200px !important;
+  width: 350px !important;
+  height: 50px !important;
   overflow: visible;
 }
 */
