@@ -21,21 +21,23 @@ button-1 {
 .Select-multi-value-wrapper {
   background: coral;
   overflow-y: scroll !important;
-  height: 100px !important;
-  max-height: 100px !important;
+  height: 50px !important;
+  max-height: 50px !important;
   width: 350px !important;
 }
-.Select-control {
+/*.Select-control {
   background: blue !important; 
   overflow-y: scroll !important;
-  height: 100px !important;
-  max-height: 100px !important;
+  height: 50px !important;
+  max-height: 50px !important;
   width: 350px !important;
 }
+*/
+/*
 .Select.has-value.is-clearable.is-searchable.Select--multi {
   background: yellow !important; 
   overflow-y: scroll !important;
   height: auto !important;
-  max-height: 400px !important;
-  width: 350px !important;
-}
+  max-height: 700px !important;
+  width: 500px !important;
+}*/
