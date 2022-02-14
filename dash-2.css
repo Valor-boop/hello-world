@@ -12,7 +12,10 @@ dash-dropdown {
   max-height: 200px;
   width: 350px;
 }
-.Select-control, .Select-menu-outer {
+.Select-control{
   height: 50px;
-  width: 350px !important;
+  width: 350px;
+}
+.Select-menu-outer {
+  width: 100%; 
 }
