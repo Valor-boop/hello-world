@@ -1,7 +1,7 @@
 * {
-  color : black;
+  color : black !important;
 }
 
 button-1 {
-  color : red;
+  color : red !important;
 }
