@@ -31,6 +31,10 @@ drop-down-menu {
   height: 50px !important;
   overflow: visible;
 }
+.Select-menu-outer {
+  width: 367px
+}
+.
 */
 /*
 .Select.has-value.is-clearable.is-searchable.Select--multi {
