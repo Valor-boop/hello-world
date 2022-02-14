@@ -9,8 +9,8 @@ button-1 {
 
 .dash-dropdown {
   width: 350px !important;
-  height: 50px !important;
-  max-height: 100px !important;
+  height: auto !important;
+  max-height: 300px !important;
 }
 
 /*.Select-placeholder {
@@ -23,8 +23,8 @@ button-1 {
 .Select-multi-value-wrapper {
   background: coral;
   overflow-y: scroll !important;
-  height: 50px !important;
-  max-height: 100px !important;
+  height: auto !important;
+  max-height: 200px !important;
   width: 350px !important;
 }
 /*.Select-control {
