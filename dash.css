@@ -1,3 +1,6 @@
-.button-1 {
+* {
+  background : black;
+}
+button-1 {
   color : red !important;
 }
