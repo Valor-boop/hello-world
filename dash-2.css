@@ -26,11 +26,11 @@ drop-down-menu {
 .Select-control {
   background: red;
   height: 50px;
+  width: 350px !important;
   /*overflow-y: scroll !important;
   min-height: 50px !important;
   height: auto !important;
-  max-height: 200px !important;
-  width: 350px !important;*/
+  max-height: 200px !important;*/
 }
 .Select-menu-outer {
   width: 367px;
