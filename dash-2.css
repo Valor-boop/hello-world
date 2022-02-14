@@ -1,6 +1,11 @@
 button-1 {
-  color : red !important;
+  color : green !important;
 }
+/*drop-down-menu {
+  width: 350px;
+  max-height: 100px;
+  overflow-y: auto;
+}*/
 .Select-placeholder {
   background: red !important;
   overflow-y: auto !important;
@@ -9,4 +14,7 @@ button-1 {
 }
 .Select-control {
   background: blue !important; 
+  overflow-y: auto !important;
+  max-height: 100px !important;
+  width: 350px !important;
 }
