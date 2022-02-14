@@ -24,19 +24,21 @@ drop-down-menu {
   width: 350px !important;
 }
 .Select-control {
-  overflow-y: scroll !important;
+  background: red;
+  height: 50px;
+  /*overflow-y: scroll !important;
   min-height: 50px !important;
   height: auto !important;
   max-height: 200px !important;
-  width: 350px !important;
+  width: 350px !important;*/
 }
 .Select-menu-outer {
-  width: 367px
+  width: 367px;
 }
-
+/*
 .Select.has-value.is-clearable.is-searchable.Select--multi {
   background: yellow !important; 
   height: 50px !important;
-  /*max-height: 700px !important;
-  width: 500px !important;*/
-}
+  max-height: 700px !important;
+  width: 500px !important;
+}*/
