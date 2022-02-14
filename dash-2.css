@@ -3,6 +3,8 @@ button-1 {
 }
 .Select-placeholder {
   background: green !important;
+  overflow-y: auto;
+  max-height: 100px
 }
 .Select-control {
   background: blue !important; 
