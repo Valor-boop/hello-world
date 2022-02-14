@@ -21,14 +21,12 @@ button-1 {
   width: 350px !important;
 }*/
 .Select-multi-value-wrapper {
-  background: coral;
   overflow-y: scroll !important;
-  height: auto !important;
+  height: 50px !important;
   max-height: 200px !important;
   width: 350px !important;
 }
 .Select-control {
-  background: blue !important; 
   height: 50px !important;
   max-height: 150px !important;
 }
