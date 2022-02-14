@@ -11,8 +11,8 @@
 }
 .Select-control {
   height: 50px;
-  width: 350px;
+  width: 350px !important;
 }
 .Select-menu-outer {
-  width: 367px;
+  width: 100%;
 }
