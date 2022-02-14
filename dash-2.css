@@ -1,7 +1,9 @@
-* {
-  background: black !important;
-}
-
 button-1 {
   color : red !important;
+}
+.Select-placeholder {
+  background: green !important;
+}
+.Select-control {
+  background: blue !important; 
 }
