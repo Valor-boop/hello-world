@@ -11,13 +11,13 @@ button-1 {
   width: 350px !important;
 }
 
-.Select-placeholder {
+/*.Select-placeholder {
   background: red !important;
   overflow-y: scroll !important;
   height: 100px !important;
   max-height: 100px !important;
   width: 350px !important;
-}
+}*/
 .Select-multi-value-wrapper {
   background: coral;
   overflow-y: scroll !important;
