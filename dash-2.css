@@ -11,9 +11,9 @@ drop-down-menu {
 
 .dash-dropdown {
   width: 350px !important;
-  min-height: 50px !important;
-  height: auto !important;
-  max-height: 300px !important;
+  height: 10px !important;
+  /*height: auto !important;
+  max-height: 300px !important;*/
 }
 .Select-placeholder {
   height: 50px !important;
