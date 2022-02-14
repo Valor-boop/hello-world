@@ -8,13 +8,15 @@ button-1 {
 }*/
 .Select-placeholder {
   background: red !important;
-  overflow-y: auto !important;
+  overflow-y: scroll !important;
+  height: auto !important;
   max-height: 100px !important;
   width: 350px !important;
 }
 .Select-control {
   background: blue !important; 
-  overflow-y: auto !important;
+  overflow-y: scroll !important;
+  height: auto !important;
   max-height: 100px !important;
   width: 350px !important;
 }
