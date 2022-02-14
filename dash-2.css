@@ -27,12 +27,10 @@ button-1 {
   max-height: 200px !important;
   width: 350px !important;
 }
-/*.Select-control {
+.Select-control {
   background: blue !important; 
-  overflow-y: scroll !important;
   height: 50px !important;
-  max-height: 50px !important;
-  width: 350px !important;
+  max-height: 150px !important;
 }
 */
 /*
