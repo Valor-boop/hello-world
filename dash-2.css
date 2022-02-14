@@ -1,17 +1,17 @@
 .Select-placeholder {
-  height: 50px !important;
-  width: 350px !important;
+  height: 50px;
+  width: 350px;
 }
 .Select-multi-value-wrapper {
-  overflow-y: scroll !important;
-  min-height: 50px !important;
-  height: auto !important;
-  max-height: 200px !important;
-  width: 350px !important;
+  overflow-y: scroll;
+  min-height: 50px;
+  height: auto;
+  max-height: 200px;
+  width: 350px;
 }
 .Select-control {
   height: 50px;
-  width: 350px !important;
+  width: 350px;
 }
 .Select-menu-outer {
   width: 367px;
