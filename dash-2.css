@@ -1,3 +1,6 @@
+dash-dropdown {
+  width: 350px;
+}
 .Select-placeholder {
   height: 50px;
   width: 350px;
@@ -9,10 +12,7 @@
   max-height: 200px;
   width: 350px;
 }
-.Select-control {
+.Select-control, .Select-menu-outer {
   height: 50px;
   width: 350px !important;
-}
-.Select-menu-outer {
-  width: 100%;
 }
