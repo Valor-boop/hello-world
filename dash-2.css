@@ -9,14 +9,21 @@ button-1 {
 .Select-placeholder {
   background: red !important;
   overflow-y: scroll !important;
-  height: auto !important;
+  height: 50px !important;
   max-height: 100px !important;
   width: 350px !important;
 }
 .Select-control {
   background: blue !important; 
   overflow-y: scroll !important;
-  height: auto !important;
+  height: 50px !important;
   max-height: 100px !important;
   width: 350px !important;
+}
+.Select.has-value.is-clearable.is-searchable.Select--multi {
+  background: yellow !important; 
+  overflow-y: scroll !important;
+  height: 50px !important;
+  max-height: 100px !important;
+  width: 400px !important;
 }
