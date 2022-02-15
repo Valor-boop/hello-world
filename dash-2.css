@@ -7,6 +7,7 @@ dash-dropdown {
 }
 .Select-multi-value-wrapper {
   overflow-y: scroll;
+  scrollbar-width: none;
   min-height: 50px;
   height: auto;
   max-height: 200px;
